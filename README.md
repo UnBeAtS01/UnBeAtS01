@@ -61,4 +61,4 @@
 
 ### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ankit%20Lal-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-sinha-5318721ba/)](https://www.linkedin.com/in/ankit-sinha-5318721ba/)  [![Gmail Badge](https://img.shields.io/badge/-@ANKIT-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:ankit.unbeat01@gmail.com)](mailto:ankit.unbeat01@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ankit%20SINHA-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-sinha-5318721ba/)](https://www.linkedin.com/in/ankit-sinha-5318721ba/)  [![Gmail Badge](https://img.shields.io/badge/-@ANKIT SINHA-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:ankit.unbeat01@gmail.com)](mailto:ankit.unbeat01@gmail.com)
