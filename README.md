@@ -2,13 +2,13 @@
 
 <p>
   <em>
-    A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Madurai, India.
+    A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Ranchi, India.
   </em>
  </p>
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<em> Want to know more about me? [Click here](https://kishanlal.tech/) </em>
+
 <em>
   
 *Talking about Personal Stuffs:*
@@ -20,7 +20,7 @@
 - 📫 Please email via ankit.unbeat01@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/ankit-sinha-5318721ba/) to reach me;
 <br/> 
 </em>
-### Where did I work earlier:question::woman_technologist:
+### Where did I work earlier
 
 <code>* [Campus 24](https://campus24.in/) [frontend intern]</code>        
 
@@ -61,4 +61,4 @@
 
 ### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kishan%20Lal-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-sinha-5318721ba/)](https://www.linkedin.com/in/kishan0725/)  [![Gmail Badge](https://img.shields.io/badge/-@kishanlal0725-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:ankit.unbeat01@gmail.com)](mailto:ankit.unbeat01@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ankit%20Lal-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-sinha-5318721ba/)](https://www.linkedin.com/in/ankit-sinha-5318721ba/)  [![Gmail Badge](https://img.shields.io/badge/-@ANKIT-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:ankit.unbeat01@gmail.com)](mailto:ankit.unbeat01@gmail.com)
