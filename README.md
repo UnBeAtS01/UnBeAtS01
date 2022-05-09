@@ -24,6 +24,7 @@
 
 <code>* [Campus 24](https://campus24.in/) [frontend intern]</code>  
 <code>* [Actinide(uk)][web intern]</code>  
+<code>* [99ideas][software intern]</code>
 
    
 ### Worked with 
