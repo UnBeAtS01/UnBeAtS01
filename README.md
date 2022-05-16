@@ -22,12 +22,11 @@
 </em>
 ### Where did I work earlier
 
-<code>* [Campus 24](https://campus24.in/) [frontend intern]</code>  
 <code>* [Actinide(uk)][web intern]</code>  
 <code>* [99ideas][software intern]</code>
+<code>* [Campus 24](https://campus24.in/) [frontend intern]</code>  
 
-   
-### Worked with 
+ ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
