@@ -20,7 +20,7 @@
 - 📫 Please email via ankit.unbeat01@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/ankit-sinha-5318721ba/) to reach me;
 <br/> 
 </em>
-### Where did I work earlier
+## 👨🏻‍💻 &nbsp;Interns
 
 <code>* [Actinide(uk)][web intern]</code> 
 
