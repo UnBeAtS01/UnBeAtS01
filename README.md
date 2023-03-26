@@ -13,7 +13,7 @@
   
 *Talking about Personal Stuffs:*
 
-- 💼 I’m Third year student at JADAVPUR UNIVERSITY pursuing B.E degree.
+- 💼 I’m Final year student at JADAVPUR UNIVERSITY pursuing B.E degree.
 - 🤔 My interests are with Web App Development 🖥️, BlockChain 📊, Cricket 🏏, Space 🚀, Hiking,etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 - 💬 Ask me about anything, I am happy to help;
