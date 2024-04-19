@@ -13,8 +13,8 @@
   
 *Talking about Personal Stuffs:*
 
-- 💼 I’m Final year student at JADAVPUR UNIVERSITY pursuing B.E degree.
-- 🤔 My interests are with Web App Development 🖥️, BlockChain 📊, Cricket 🏏, Space 🚀, Hiking,etc..;
+- 💼 Software Engineer.
+- 🤔 My interests are with Web App Development 🖥️,GenAi, BlockChain 📊, Cricket 🏏, Space 🚀, Hiking,etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via ankit.unbeat01@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/ankit-sinha-5318721ba/) to reach me;
@@ -27,7 +27,8 @@
 
 <code>* [99ideas][software intern]</code>
 <code>* [Campus 24](https://campus24.in/) [frontend intern]</code>  
-
+<code>* [Droame][software Engineer]</code>
+<code>* [Genpact][software Engineer]</code>
  ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
